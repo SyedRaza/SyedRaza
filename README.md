@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedRaza&label=Views&color=blue&style=plastic" alt="Syed Raza Khalid" /> </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-SyedRaza-Blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-raza-k-83aa8118/)](https://www.linkedin.com/in/syed-raza-k-83aa8118/)
+[![Linkedin Badge](https://img.shields.io/badge/-SyedRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-raza-k-83aa8118/)](https://www.linkedin.com/in/syed-raza-k-83aa8118/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-SyedRaza-red?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/617374/syed-raza?tab=profile/)](https://stackoverflow.com/users/617374/syed-raza?tab=profile)
 
 I'm a seasoned Full-stack Architect/Engineer based in Toronto, Canada, known for crafting innovative solutions, consistently meeting deadlines, and propelling team productivity. My robust experience and dedication to continuous learning have made me a reliable force in end-to-end application development. Always at the forefront of technology, I am ready to tackle new challenges and deliver outstanding results.
