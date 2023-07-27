@@ -1,8 +1,6 @@
 # Hello, I'm Syed Raza Khalid! 👋
 ![](https://komarev.com/ghpvc/?username=SyedRaza)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedRaza&label=Views&color=blue&style=plastic" alt="Syed Raza Khalid" /> </p>
-
 [![Linkedin Badge](https://img.shields.io/badge/-SyedRaza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/syed-raza-k-83aa8118/)](https://www.linkedin.com/in/syed-raza-k-83aa8118/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-SyedRaza-red?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/617374/syed-raza?tab=profile/)](https://stackoverflow.com/users/617374/syed-raza?tab=profile)
 
