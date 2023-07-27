@@ -40,7 +40,6 @@ I invite you to view more details about my experiences in my [LinkedIn profile](
 
 ## 📫 Contact Me
 - Email - [razakhalid@gmail.com](mailto:razakhalid@gmail.com)
-- Phone - +1 437 239 2316
 
 
 <!--
