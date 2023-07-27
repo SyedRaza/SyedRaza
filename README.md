@@ -7,11 +7,11 @@
 I'm a seasoned Full-stack Architect/Engineer based in Toronto, Canada 🇨🇦, known for crafting innovative solutions, consistently meeting deadlines, and propelling team productivity. My robust experience and dedication to continuous learning have made me a reliable force in end-to-end application development. Always at the forefront of technology, I am ready to tackle new challenges and deliver outstanding results.
 
 ## 🚀 Skills
-- **Backend:** Node, NPM, Express, Mongoose, Sequelize, Ruby On Rails, WebSocket, REST API, GraphQL, Redis, Spring framework, Spring Data, Maven.
+- **Backend:** Node, NPM (Node Package Manager), Express, Mongoose, Sequelize, Ruby On Rails, RVM (Ruby Verion Manager), WebSocket, REST API, GraphQL, Redis, Spring framework, Spring Data, Maven.
 - **AWS Services:** CloudFront, S3, Lambda, SNS, SQS, EC2, Cognito, IAM policy.
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frontend:** React, Redux, NextJS, Angular, RxJS, Vue, StyleComponent, HTML5, CSS3, JQuery, ESLint.
-- **Languages:** JavaScript, TypeScript, Java, PHP, Ruby
+- **Languages:** JavaScript, TypeScript, Java, PHP, Ruby 
 - **Tools:** GIT, Docker, Linux, JWT, Webpack, Gulp, Apache, NGINX.
 
 ## 👨‍💼 Professional Experiences
