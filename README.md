@@ -11,6 +11,7 @@ I'm a seasoned Full-stack Architect/Engineer based in Toronto, Canada 🇨🇦, 
 - **AWS Services:** CloudFront, S3, Lambda, SNS, SQS, EC2, Cognito, IAM policy.
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frontend:** React, Redux, NextJS, Angular, RxJS, Vue, StyleComponent, HTML5, CSS3, JQuery, ESLint.
+- **Mobile Development:** React-Native.
 - **Languages:** JavaScript, TypeScript, Java, PHP, Ruby 
 - **Tools:** GIT, Docker, Linux, JWT, Webpack, Gulp, Apache, NGINX.
 
