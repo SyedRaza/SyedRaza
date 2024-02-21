@@ -20,7 +20,7 @@ I'm a seasoned Full-stack Architect/Engineer based in Toronto, Canada 🇨🇦, 
 - Software Architect at mobileLIVE Inc. (Apr 2019 - Feb 2022)
 - Software Architect at Zameen.com / Bayut.com (Aug 2017 - Mar 2019)
 
-I invite you to view more details about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/syed-raza-k-83aa8118/).
+I invite you to view more details about my experiences in my [LinkedIn profile](https://www.linkedin.com/in/syed-raza-k-83aa8118/#experience).
 
 ## 🎓 Education
 - Master of Information Technology, Swinburne University of Technology, Melbourne, Australia (2009)
